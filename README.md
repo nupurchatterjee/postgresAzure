@@ -1,1 +1,1 @@
-# Migration Journey from Local PostgrSQL to Azure SQL
+# Migration Journey from Local PostgreSQL to Azure SQL
